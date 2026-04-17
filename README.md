@@ -28,7 +28,13 @@ Azure Blob Storage
 ---
 ## 📸 Dashboard Preview
 
-![Dashboard](assets/youtube_trending_dashboard.png)
+<details>
+  <summary>Click to expand</summary>
+  <br/>
+  <p align="center">
+    <img src="assets/youtube_trending_dashboard.png" width="900"/>
+  </p>
+</details>
 
 ---
 ## 🖥️ Interactive Dashboard
