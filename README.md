@@ -33,7 +33,7 @@ Azure Blob Storage
 ---
 ## 🖥️ Interactive Dashboard
 
-🔗 https://tracynguyen01-youtube-trending-data-lakehouse-app-apnbam.streamlit.app/
+🔗 https://tracynguyen01-youtube-trending-video-analysis-app-ig1khc.streamlit.app/
 
 Run locally:
 
